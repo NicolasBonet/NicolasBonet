@@ -13,7 +13,3 @@
 <a href="https://instagram.com/nbonetg" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="nbonetg" height="30" width="40" /></a>
 <a href="https://x.com/nbonetg" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@nbonetg" height="30" width="40" /></a>
 </p>
-
-<h3 align="left">My favorite programming languages are:</h3>
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=NicolasBonet&show_icons=true&locale=en&layout=compact" alt="NicolasBonet's Favorite Programming Languages" /></p>
