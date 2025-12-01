@@ -27,7 +27,7 @@ I care about:
 ## 🚀 Tech Stack
 
 Frontend
-<p> <img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,redux,tailwind,vue" /> </p>
+<p> <img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,redux,tailwind" /> </p>
 Backend
 <p> <img src="https://skillicons.dev/icons?i=nodejs,nestjs,express,graphql,postgres,prisma,docker" /> </p>
 Mobile & Cross-Platform
@@ -55,11 +55,6 @@ Tools & Platforms
 - <a href="https://www.toptal.com/resume/nicolas-bonet-gonzalez" target="_blank">TopTal — Elite global network of senior engineers</a>
 
 - G2i (Good Engineers, Good Humans) — React/React Native-focused vetted engineering community
-
-## 📈 GitHub Stats
-<p align="center"> <img height="160" src="https://github-readme-stats-sigma-five.vercel.app/api?username=NicolasBonet&show_icons=true&theme=transparent&hide_border=true" /> <img height="160" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=NicolasBonet&layout=compact&theme=transparent&hide_border=true" /> </p>
-
-(Using sigma-five mirror to avoid rate limits.)
 
 ## 🏗️ Selected Personal Projects
 
