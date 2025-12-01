@@ -1,9 +1,13 @@
 # 🔥 Hey! I'm Nicolas Bonet — Staff/Senior Software Engineer from 🇨🇴 Colombia
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=NicolasBonet&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" /> </p>
 
-I’m Nicolas Bonet, a Staff/Senior Software Engineer with 12+ years building scalable products, polished UIs, and high-performance systems.
+Staff/Senior Software Engineer with 10+ years of experience building scalable web and mobile applications across e-commerce, fintech, logistics, and consumer platforms. Expert in React, React Native, TypeScript, Node.js, and modern cloud architectures.
 
-I’ve helped ship software at OpenBorder, Omaze, GlossGenius, Adidas, and built tools used by thousands of users around the world.
+Strong product mindset with a track record of shipping end-to-end features, leading engineering teams, and improving performance and DX. Hands-on experience building AI-powered applications using OpenAI, Gemini, and Replicate APIs.
+
+Highly effective in remote-first, distributed environments with strong async communication and ownership.
+
+I've helped ship software at OpenBorder, Omaze, GlossGenius, adidas, and built tools used by thousands of users worldwide.
 
 I care about:
 ✨ Clean architecture
@@ -12,7 +16,7 @@ I care about:
 🌍 Traveling the world (all continents!)
 🧠 Building products that matter
 
-📬 Reach me: hola@nicolasbo.net
+## 📩 Where to find me?
 
 🌐 Website: https://nicolasbo.net
 
@@ -21,6 +25,7 @@ I care about:
 📸 Instagram: https://instagram.com/nbonetg
 
 ## 🚀 Tech Stack
+
 Frontend
 <p> <img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,redux,tailwind,vue" /> </p>
 Backend
@@ -32,7 +37,6 @@ Tools & Platforms
 
 ## 🧩 About Me
 
-
 🧑‍💻 Senior Software Engineer @ OpenBorder
 
 🌍 Visited all continents — remote-first by nature
@@ -41,30 +45,36 @@ Tools & Platforms
 
 🤝 Contributor to open-source (including the SMF ecosystem)
 
-💼 Member of elite engineering communities:
-
-TopTal → https://www.toptal.com/resume/nicolas-bonet-gonzalez
-
-G2i (Good Engineers, Good Humans) → https://g2i.co
-
 ⚙️ Passionate about TypeScript, React, Node.js, AI, and product-building
 
 🧪 Strong believer in fast iteration + maintainable code
 
 🚀 Always building something new
 
+## 🤝 Professional Communities
+- <a href="https://www.toptal.com/resume/nicolas-bonet-gonzalez" target="_blank">TopTal — Elite global network of senior engineers</a>
+
+- G2i (Good Engineers, Good Humans) — React/React Native-focused vetted engineering community
+
 ## 📈 GitHub Stats
-<p align="center"> <img height="160" src="https://github-readme-stats-godkingjay.vercel.app/api?username=NicolasBonet&show_icons=true&theme=transparent&hide_border=true" /> <img height="160" src="https://github-readme-stats-godkingjay.vercel.app/api/top-langs/?username=NicolasBonet&layout=compact&theme=transparent&hide_border=true" /> </p>
+<p align="center"> <img height="160" src="https://github-readme-stats-sigma-five.vercel.app/api?username=NicolasBonet&show_icons=true&theme=transparent&hide_border=true" /> <img height="160" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=NicolasBonet&layout=compact&theme=transparent&hide_border=true" /> </p>
 
-## 🏗️ Featured Projects
-🧠 VetAI — AI-powered pet health assistant
+(Using sigma-five mirror to avoid rate limits.)
 
-AI-driven mobile experience for pet care and quick diagnostics.
+## 🏗️ Selected Personal Projects
 
-🐾 Pet Care Manager App
+🛠️ SMFPacks.com (Founder) — 10/2009 → 10/2022
 
-Simple + elegant app to track vaccinations, medications, and vet visits.
+Built 25+ plugins and 12 themes used by 3,000+ websites, downloaded over 300,000+ times.
 
-🌐 SMFPacks
+🐶 PetPrime — 01/2024 → 03/2024
 
-Custom mods, plugins, and developer tools used by thousands of communities worldwide.
+Implemented Vet AI feature using OpenAI API for triage-style pet health Q&A and guidance.
+
+🎨 PhotoStudio AI — 11/2022 → 01/2023
+
+Built AI image generation pipeline using Replicate APIs (Stable Diffusion).
+
+📞 DodoVoice — 03/2025 → 04/2025
+
+Next-gen VoIP platform released as an alternative to Skype using Twilio.
