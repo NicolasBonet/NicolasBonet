@@ -39,7 +39,7 @@ Tools & Platforms
 
 🧑‍💻 Senior Software Engineer @ OpenBorder
 
-🌍 Visited all continents — remote-first by nature
+🌍 Remote-first by nature
 
 🛠️ Creator of SMFPacks, used by thousands of online communities
 
