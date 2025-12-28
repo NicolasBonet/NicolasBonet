@@ -10,10 +10,11 @@ Highly effective in remote-first, distributed environments with strong async com
 I've helped ship software at OpenBorder, Omaze, GlossGenius, adidas, and built tools used by thousands of users worldwide.
 
 I care about:
+
 ✨ Clean architecture
 ⚡ Performance & reliability
 🎨 Developer & user experience
-🌍 Traveling the world (all continents!)
+🌍 Traveling the world
 🧠 Building products that matter
 
 ## 📩 Where to find me?
