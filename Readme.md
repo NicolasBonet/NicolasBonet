@@ -12,9 +12,13 @@ I've helped ship software at OpenBorder, Omaze, GlossGenius, adidas, and built t
 I care about:
 
 ✨ Clean architecture
+
 ⚡ Performance & reliability
+
 🎨 Developer & user experience
+
 🌍 Traveling the world
+
 🧠 Building products that matter
 
 ## 📩 Where to find me?
