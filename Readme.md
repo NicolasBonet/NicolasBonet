@@ -7,7 +7,7 @@ Strong product mindset with a track record of shipping end-to-end features, lead
 
 Highly effective in remote-first, distributed environments with strong async communication and ownership.
 
-I've helped ship software at OpenBorder, Omaze, GlossGenius, adidas, and built tools used by thousands of users worldwide.
+I've helped ship software at Expensify, OpenBorder, Omaze, GlossGenius, adidas, and built tools used by thousands of users worldwide.
 
 I care about:
 
@@ -42,7 +42,7 @@ Tools & Platforms
 
 ## 🧩 About Me
 
-🧑‍💻 Senior Software Engineer @ OpenBorder
+🧑‍💻 Fullstack Software Engineer @ Expensify
 
 🌍 Remote-first by nature
 
